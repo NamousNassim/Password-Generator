@@ -1,0 +1,35 @@
+
+body {
+    margin: 100px auto;
+  }
+
+  .card
+{
+    text-align: center;
+    align-items: center;
+   
+}  
+
+.container 
+{ 
+    
+    background-color: black;
+} 
+
+.container input 
+{
+    margin : 20px; 
+    width: 90%;
+    height: 40px;
+}
+
+button 
+{
+    margin: 20px; 
+    width: 50%; 
+    height: 30px; 
+    cursor: pointer; 
+    font-size: large;
+    font-weight: bold; 
+    background-color: aqua;
+}
